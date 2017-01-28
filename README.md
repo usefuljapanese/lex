@@ -2,4 +2,4 @@
 
 ---
 
-Our event photos of our latest event can be found here: http://event.l-ex.tokyo/photos/20170218
+Our event photos of our latest event can be found [here!](http://event.l-ex.tokyo/photos/20170218)
